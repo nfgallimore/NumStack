@@ -6,7 +6,7 @@
    Version. 1.01 09.09.2017
    Purpose: This program ...
 */
-#include "stack.hpp"
+#include "Stack.hpp"
 
 //***********************************************
 // Member function add. add pops                *

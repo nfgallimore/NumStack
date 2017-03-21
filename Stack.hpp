@@ -2,7 +2,7 @@
 #define STACK_HPP
 #include "NumStack.hpp"
 
-class Stack : public NumStack
+class Stack : public NumStack<int>
 {
 public:
    // Constructor
